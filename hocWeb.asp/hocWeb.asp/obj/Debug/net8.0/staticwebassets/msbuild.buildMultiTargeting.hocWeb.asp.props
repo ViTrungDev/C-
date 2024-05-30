@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hocWeb.asp.props" />
+</Project>

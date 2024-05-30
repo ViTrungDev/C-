@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winform C#\\X\u1EED l\u00FD chu\u1ED7i\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A494-ECB4-4454-B435-064D44033E30}|X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i.csproj|e:\\winform c#\\x\u1EED l\u00FD chu\u1ED7i\\x\u1EED l\u00FD chu\u1ED7i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B3A494-ECB4-4454-B435-064D44033E30}|X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i.csproj|solutionrelative:x\u1EED l\u00FD chu\u1ED7i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A494-ECB4-4454-B435-064D44033E30}|X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i.csproj|e:\\winform c#\\x\u1EED l\u00FD chu\u1ED7i\\x\u1EED l\u00FD chu\u1ED7i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2B3A494-ECB4-4454-B435-064D44033E30}|X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i.csproj|solutionrelative:x\u1EED l\u00FD chu\u1ED7i\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Winform C#\\X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "RelativeDocumentMoniker": "X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "RelativeToolTip": "X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:05:24.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Winform C#\\X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "RelativeDocumentMoniker": "X\u1EED l\u00FD chu\u1ED7i\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\X\u1EED l\u00FD chu\u1ED7i\\X\u1EED l\u00FD chu\u1ED7i\\Form1.cs [Design]",
+              "RelativeToolTip": "X\u1EED l\u00FD chu\u1ED7i\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:47:53.735Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\bin\Debug\ChuongTrinhQuanLySinhVien.exe.config
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\bin\Debug\ChuongTrinhQuanLySinhVien.exe
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\bin\Debug\ChuongTrinhQuanLySinhVien.pdb
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.csproj.AssemblyReference.cache
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.QLSinhVien.resources
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.Properties.Resources.resources
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.csproj.GenerateResource.cache
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.csproj.CoreCompileInputs.cache
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.exe
+E:\Winform C#\ChuongTrinhQuanLySinhVien\ChuongTrinhQuanLySinhVien\obj\Debug\ChuongTrinhQuanLySinhVien.pdb

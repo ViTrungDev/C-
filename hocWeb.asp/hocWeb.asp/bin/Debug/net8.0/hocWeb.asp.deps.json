@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hocWeb.asp/1.0.0": {
+        "runtime": {
+          "hocWeb.asp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hocWeb.asp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

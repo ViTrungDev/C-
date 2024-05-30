@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|e:\\winform c#\\chuongtrinhquanlysinhvien\\chuongtrinhquanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|solutionrelative:chuongtrinhquanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|e:\\winform c#\\chuongtrinhquanlysinhvien\\chuongtrinhquanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|solutionrelative:chuongtrinhquanlysinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|e:\\winform c#\\chuongtrinhquanlysinhvien\\chuongtrinhquanlysinhvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|solutionrelative:chuongtrinhquanlysinhvien\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|e:\\winform c#\\chuongtrinhquanlysinhvien\\chuongtrinhquanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA9154E-4FB4-4E5D-B3EB-B545B3C8092D}|ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien.csproj|solutionrelative:chuongtrinhquanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\SinhVien.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLySinhVien\\SinhVien.cs",
+              "ToolTip": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\SinhVien.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLySinhVien\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:28:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLySinhVien\\Form1.Designer.cs",
+              "ToolTip": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.Designer.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLySinhVien\\Form1.Designer.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:17:10.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "RelativeToolTip": "ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAHYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:17:01.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuongTrinhQuanLySinhVien\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\ChuongTrinhQuanLySinhVien\\ChuongTrinhQuanLySinhVien\\Form1.cs [Design]",
+              "RelativeToolTip": "ChuongTrinhQuanLySinhVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:09:58.078Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

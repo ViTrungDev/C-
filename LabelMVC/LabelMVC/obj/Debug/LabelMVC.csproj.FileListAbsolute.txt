@@ -1,0 +1,10 @@
+E:\Winform C#\LabelMVC\LabelMVC\bin\Debug\LabelMVC.exe.config
+E:\Winform C#\LabelMVC\LabelMVC\bin\Debug\LabelMVC.exe
+E:\Winform C#\LabelMVC\LabelMVC\bin\Debug\LabelMVC.pdb
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.csproj.AssemblyReference.cache
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.Form1.resources
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.Properties.Resources.resources
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.csproj.GenerateResource.cache
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.csproj.CoreCompileInputs.cache
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.exe
+E:\Winform C#\LabelMVC\LabelMVC\obj\Debug\LabelMVC.pdb

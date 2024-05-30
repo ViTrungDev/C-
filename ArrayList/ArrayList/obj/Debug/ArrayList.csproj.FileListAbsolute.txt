@@ -1,0 +1,10 @@
+E:\Winform C#\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+E:\Winform C#\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+E:\Winform C#\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.Form1.resources
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.Properties.Resources.resources
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.GenerateResource.cache
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+E:\Winform C#\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

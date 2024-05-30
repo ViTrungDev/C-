@@ -1,0 +1,10 @@
+E:\Winform C#\Bài 2\Bài 2\bin\Debug\Bài 2.exe.config
+E:\Winform C#\Bài 2\Bài 2\bin\Debug\Bài 2.exe
+E:\Winform C#\Bài 2\Bài 2\bin\Debug\Bài 2.pdb
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài_2.Form1.resources
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài 2.exe
+E:\Winform C#\Bài 2\Bài 2\obj\Debug\Bài 2.pdb

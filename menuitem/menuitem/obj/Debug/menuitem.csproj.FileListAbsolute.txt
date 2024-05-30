@@ -1,0 +1,10 @@
+E:\Winform C#\menuitem\menuitem\bin\Debug\menuitem.exe.config
+E:\Winform C#\menuitem\menuitem\bin\Debug\menuitem.exe
+E:\Winform C#\menuitem\menuitem\bin\Debug\menuitem.pdb
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.csproj.AssemblyReference.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.Form1.resources
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.Properties.Resources.resources
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.csproj.GenerateResource.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.csproj.CoreCompileInputs.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.exe
+E:\Winform C#\menuitem\menuitem\obj\Debug\menuitem.pdb

@@ -1,0 +1,10 @@
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\bin\Debug\Xử lý chuỗi.exe.config
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\bin\Debug\Xử lý chuỗi.exe
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\bin\Debug\Xử lý chuỗi.pdb
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử lý chuỗi.csproj.AssemblyReference.cache
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử_lý_chuỗi.Form1.resources
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử_lý_chuỗi.Properties.Resources.resources
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử lý chuỗi.csproj.GenerateResource.cache
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử lý chuỗi.csproj.CoreCompileInputs.cache
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử lý chuỗi.exe
+E:\Winform C#\Xử lý chuỗi\Xử lý chuỗi\obj\Debug\Xử lý chuỗi.pdb

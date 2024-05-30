@@ -1,0 +1,10 @@
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.Form1.resources
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.Properties.Resources.resources
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.csproj.GenerateResource.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.AssemblyInfoInputs.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.AssemblyInfo.cs
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.csproj.CoreCompileInputs.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.MvcApplicationPartsAssemblyInfo.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.RazorAssemblyInfo.cache
+E:\Winform C#\menuitem\menuitem\obj\Debug\net8.0\menuitem.RazorAssemblyInfo.cs

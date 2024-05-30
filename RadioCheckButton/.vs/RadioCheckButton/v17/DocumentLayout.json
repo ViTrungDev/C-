@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Winform C#\\RadioCheckButton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|e:\\winform c#\\radiocheckbutton\\radiocheckbutton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|solutionrelative:radiocheckbutton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|e:\\winform c#\\radiocheckbutton\\radiocheckbutton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|solutionrelative:radiocheckbutton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|e:\\winform c#\\radiocheckbutton\\radiocheckbutton\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3515A5-8CB8-4098-978F-8BF813D04892}|RadioCheckButton\\RadioCheckButton.csproj|solutionrelative:radiocheckbutton\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RadioCheckButton\\Form1.Designer.cs",
+              "ToolTip": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.Designer.cs",
+              "RelativeToolTip": "RadioCheckButton\\Form1.Designer.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAswKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:04:29.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.cs",
+              "RelativeDocumentMoniker": "RadioCheckButton\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.cs",
+              "RelativeToolTip": "RadioCheckButton\\Form1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv04AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:04:17.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.cs",
+              "RelativeDocumentMoniker": "RadioCheckButton\\Form1.cs",
+              "ToolTip": "E:\\Winform C#\\RadioCheckButton\\RadioCheckButton\\Form1.cs [Design]",
+              "RelativeToolTip": "RadioCheckButton\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:47:28.188Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

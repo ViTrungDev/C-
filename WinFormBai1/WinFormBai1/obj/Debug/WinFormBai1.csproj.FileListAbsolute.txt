@@ -1,0 +1,10 @@
+E:\Winform C#\WinFormBai1\WinFormBai1\bin\Debug\WinFormBai1.exe.config
+E:\Winform C#\WinFormBai1\WinFormBai1\bin\Debug\WinFormBai1.exe
+E:\Winform C#\WinFormBai1\WinFormBai1\bin\Debug\WinFormBai1.pdb
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.csproj.AssemblyReference.cache
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.Properties.Resources.resources
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.csproj.GenerateResource.cache
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.csproj.CoreCompileInputs.cache
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.exe
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.pdb
+E:\Winform C#\WinFormBai1\WinFormBai1\obj\Debug\WinFormBai1.Form1.resources
